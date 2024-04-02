@@ -13,7 +13,7 @@ int main() {
 
   int size = sizeof(a);
   cout << "Size of a is : " << size << endl;
-  cout << c << endl;           //tpyecasting
+  cout << c << endl;           //tpyecastingggg
 }
   
   
